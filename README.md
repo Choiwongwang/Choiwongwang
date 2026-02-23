@@ -19,3 +19,4 @@ Tech: Python, PyTorch, Transformer, LLM, RAG, LangChain, LangGraph, Precision/Re
 
 ## Links
 - GitHub: https://github.com/Choiwongwang
+- LogRAIL: https://github.com/Choiwongwang/LogRAIL
