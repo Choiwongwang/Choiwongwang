@@ -6,6 +6,16 @@ LLM-based AI architecture and multi-agent systems · Large-scale log data analys
 - RAG-based re-verification for log anomaly detection
 - Data analysis and model optimization for real-world systems
 
+## What I'm Looking For
+I'm open to R&D / ML Engineering / Data roles focusing on reliability and LLM systems.
+
+## Featured
+![LogRAIL Architecture](https://raw.githubusercontent.com/Choiwongwang/LogRAIL/main/assets/figure2.png)
+
+## GitHub Stats
+![Wongwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choiwongwang&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choiwongwang&layout=compact&hide_border=true)
+
 ## Projects
 ### Generative AI-Based Smart Cattle Management System (Production)
 What: Built a deployable smart management system for livestock operations using Generative AI.
@@ -28,3 +38,5 @@ Impact: Reproducible pipeline with documented metrics and results tables.
 
 GitHub: https://github.com/Choiwongwang  
 LogRAIL: https://github.com/Choiwongwang/LogRAIL
+
+Email: eiuti@naver.com
