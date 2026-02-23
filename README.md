@@ -11,10 +11,11 @@ I'm open to R&D / ML Engineering / Data roles focusing on reliability and LLM sy
 
 ## Featured
 ![LogRAIL Architecture](https://raw.githubusercontent.com/Choiwongwang/LogRAIL/main/assets/figure2.png)
+LogRAIL research: two-stage pipeline for log anomaly detection (Stage‑1 LogFormer + Stage‑2 VDB+LLM re‑verification).
 
 ## GitHub Stats
-![Wongwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choiwongwang&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choiwongwang&layout=compact&hide_border=true)
+![Wongwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choiwongwang&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=21600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choiwongwang&layout=compact&hide_border=true&cache_seconds=21600)
 
 ## Projects
 ### Generative AI-Based Smart Cattle Management System (Production)
