@@ -1,16 +1,21 @@
-## Hi there 👋
+# Choiwongwang
+LLM-based AI architecture and multi-agent systems · Large-scale log data analysis and AI model development
 
-<!--
-**Choiwongwang/Choiwongwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Focus
+- LLM-centered AI architecture
+- RAG-based re-verification for log anomaly detection
+- Data analysis and model optimization for real-world systems
 
-Here are some ideas to get you started:
+## Projects
+### Generative AI-Based Smart Cattle Management System (Production)
+Built a deployable smart management system that analyzes operational data with Generative AI for real-world farm use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech: Python, Generative AI, Data Preprocessing, Data Analysis, Model Optimization
+
+### Deep Learning Log Anomaly Detection with LLM Explanations (2-year research)
+Developed a log anomaly detector and an LLM-based re-verification module that produces explainable decisions.
+
+Tech: Python, PyTorch, Transformer, LLM, RAG, LangChain, LangGraph, Precision/Recall/F1
+
+## Links
+- GitHub: https://github.com/Choiwongwang
