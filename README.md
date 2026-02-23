@@ -6,6 +6,34 @@ LLM-based AI architecture and multi-agent systems · Large-scale log data analys
 - RAG-based re-verification for log anomaly detection
 - Data analysis and model optimization for real-world systems
 
+## Technical Skills
+🧠 **AI Model Architecture & Algorithm Design**
+- Transformer-based sequence modeling and attention mechanism implementation
+- Log-driven anomaly detection model design
+- LLM-based explainable verification architecture development
+- Multi-agent orchestration and AI workflow architecture design
+- Model optimization and threshold-based decision tuning
+
+📊 **Data Analysis & Experimental Design**
+- Large-scale log data structuring and preprocessing pipeline construction
+- Structured and unstructured data analysis with feature engineering
+- Data mining and clustering (e.g., K-Means)
+- Performance evaluation using Precision, Recall, and F1-score
+- Iterative experimentation and benchmarking for model enhancement
+
+🤖 **LLM & Retrieval-Augmented Systems**
+- Retrieval-Augmented Generation (RAG) pipeline design
+- Multi-agent system implementation using LangChain and LangGraph
+- Vector retrieval system construction using Chroma
+- Prompt engineering and structured output control
+
+🖥 **Development Environment & Research Tools**
+- Python-based AI research and model implementation
+- Deep learning model training using PyTorch in GPU environments
+- Linux-based remote experimentation (SSH)
+- Version control with Git / GitHub
+- AI-assisted development using Claude, Cursor, and Codex
+
 ## What I'm Looking For
 I'm open to R&D / ML Engineering / Data roles focusing on reliability and LLM systems.
 
