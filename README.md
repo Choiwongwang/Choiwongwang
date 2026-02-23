@@ -18,15 +18,13 @@ I'm open to R&D / ML Engineering / Data roles focusing on reliability and LLM sy
 
 ## Projects
 ### Generative AI-Based Smart Cattle Management System (Production)
-What: Built a deployable smart management system for livestock operations using Generative AI.
-How:
+Built a deployable smart management system for livestock operations using Generative AI.
 - Designed the end-to-end data pipeline for operational data analysis.
 - Implemented preprocessing and optimization for real-world deployment stability.
 Impact: Production-ready system delivered with a working demo/report.
 
 ### Deep Learning Log Anomaly Detection with LLM Explanations (2-year research)
-What: Developed a log anomaly detection system with LLM-based re-verification for explainability.
-How:
+Developed a log anomaly detection system with LLM-based re-verification for explainability.
 - Trained a Transformer-based detector and tuned decision thresholds.
 - Implemented RAG-based LLM re-verification for evidence-backed decisions.
 - Evaluated precision/recall/F1 and ablation settings.
